@@ -1,0 +1,18 @@
+{
+  "unit": [
+    {
+      "urn": "1002",
+      "codeName": "Unit7",
+      "name": "U7",
+      "unitType": "ARMY",
+      "unitEchelon": "ANTIARMOURUNIT"
+    },
+    {
+      "urn": "1001",
+      "codeName": "Unit1",
+      "name": "U1",
+      "unitType": "ARMY",
+      "unitEchelon": "ANTIARMOURUNIT"
+    }
+  ]
+}
